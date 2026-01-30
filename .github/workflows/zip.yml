@@ -4,6 +4,7 @@ name: Update pack
 on:
   push:
     branches: [ "main" ]
+    paths: [ "pack/*" ]
 
   workflow_dispatch:
 
