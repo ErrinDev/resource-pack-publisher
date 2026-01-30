@@ -1,0 +1,121 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/owner.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/manager.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/jr-mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/media.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vip.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/netherite.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/diamond.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/emerald.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gold.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/copper.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/coal.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        }
+    ]
+}
