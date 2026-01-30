@@ -4,7 +4,7 @@ name: Update pack
 on:
   push:
     branches: [ "main" ]
-    paths: [ "pack/*" ]
+    paths: [ "pack/**" ]
 
   workflow_dispatch:
 
@@ -17,5 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update zip archive
-        run: zip -u export/pack.zip pack/*
+        run: |
+          mkdir -p export
+          cd pack && zip -r ../export/pack.zip .
   #possible upload to external server in future
