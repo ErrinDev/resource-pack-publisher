@@ -17,5 +17,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update zip archive
-        run: zip -u pack.zip pack/*
+        run: zip -u /export/pack.zip pack/*
   #possible upload to external server in future
